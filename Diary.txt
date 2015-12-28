@@ -1,28 +1,32 @@
 15/12/21
-Sota‚ÌƒNƒŠƒXƒ}ƒXƒ_ƒ“ƒX‚Æ‰ÌB
-“®‰æ@https://www.youtube.com/watch?v=q_8J9shjs80
-ŠJ”­‚Ì—lŽq@https://github.com/ShuheiMakino/Sota/issues/1
+Sotaã®ã‚¯ãƒªã‚¹ãƒžã‚¹ãƒ€ãƒ³ã‚¹ã¨æ­Œã€‚
+å‹•ç”»ã€€https://www.youtube.com/watch?v=q_8J9shjs80
+é–‹ç™ºã®æ§˜å­ã€€https://github.com/ShuheiMakino/Sota/issues/1
 
 15/12/24
-GitHub‚ÌŽg‚¢•ûA­‚µ‚¾‚¯•ª‚©‚Á‚½‚©‚àB
-–¾“ú‚ÍŽÀŒ±‚Ì•M‹LŽŽŒ±B‚È‚ñ‚Æ‚©‚È‚é¥¥¥‚ÆŽv‚¤
-Sota‚Ì“®‰æA‚¿‚å‚Ñ‚Á‚ÆÄ¶”L‚Ñ‚Ä‚éB’N‚ªŒ©‚Ä‚­‚ê‚Ä‚é‚ñ‚¾‚ë‚¤B
+GitHubã®ä½¿ã„æ–¹ã€å°‘ã—ã ã‘åˆ†ã‹ã£ãŸã‹ã‚‚ã€‚
+æ˜Žæ—¥ã¯å®Ÿé¨“ã®ç­†è¨˜è©¦é¨“ã€‚ãªã‚“ã¨ã‹ãªã‚‹ï½¥ï½¥ï½¥ã¨æ€ã†
+Sotaã®å‹•ç”»ã€ã¡ã‚‡ã³ã£ã¨å†ç”Ÿæ•°ä¼¸ã³ã¦ã‚‹ã€‚èª°ãŒè¦‹ã¦ãã‚Œã¦ã‚‹ã‚“ã ã‚ã†ã€‚
 
 15/12/25
-ŽÀŒ±‚Ì•M‹LŽŽŒ±‚Å‚µ‚½B‚Ü‚ ‚Ü‚ ‚¾‚ÆŽv‚¤B
-”N“àŽö‹Æ‚ÌÅI“úI
-ƒNƒŠƒXƒ}ƒX‚È‚Ì‚Å‚¨“÷‚ðH‚×‚æ‚¤B
+å®Ÿé¨“ã®ç­†è¨˜è©¦é¨“ã§ã—ãŸã€‚ã¾ã‚ã¾ã‚ã ã¨æ€ã†ã€‚
+å¹´å†…æŽˆæ¥­ã®æœ€çµ‚æ—¥ï¼
+ã‚¯ãƒªã‚¹ãƒžã‚¹ãªã®ã§ãŠè‚‰ã‚’é£Ÿã¹ã‚ˆã†ã€‚
 
 15/12/26
-aiko‚Ìƒ‰ƒCƒu(LLP18)‚És‚Á‚Ä‚«‚½B
-40‚É‚È‚Á‚Ä‚àÅ‚‚É‰Âˆ¤‚¢‚µ‚©‚Á‚±‚¢‚¢aiko‚¾‚Á‚½¥¥¥B
+aikoã®ãƒ©ã‚¤ãƒ–(LLP18)ã«è¡Œã£ã¦ããŸã€‚
+40ã«ãªã£ã¦ã‚‚æœ€é«˜ã«å¯æ„›ã„ã—ã‹ã£ã“ã„ã„aikoã ã£ãŸï½¥ï½¥ï½¥ã€‚
 
 15/12/27
-¡“ú‚ÍƒoƒCƒN—F’B4l‚Æìè‚ÉB
-—L”n‹L”OA”ƒ‚¢‚Ü‚µ‚½A‰”nŒ”BŸ‚¿‚Ü‚µ‚½B
+ä»Šæ—¥ã¯ãƒã‚¤ã‚¯å‹é”4äººã¨å·å´Žã«ã€‚
+æœ‰é¦¬è¨˜å¿µã€è²·ã„ã¾ã—ãŸã€åˆé¦¬åˆ¸ã€‚å‹ã¡ã¾ã—ãŸã€‚
 
 15/12/28
+<<<<<<< HEAD
 ”N‚ª–¾‚¯‚½‚çV‚µ‚¢“®‰æ‚ðŒöŠJ—\’è‚Å‚·B(–Úˆ‚ª—§‚¿‚Ü‚µ‚½)
 •—˜C“ü‚Á‚Ä‚ÄŽv‚Á‚½‚¯‚Ç
 Sota‚ªŠO‘lŒü‚¯‚É“ú–{‚Ì—¿—‚ðÐ‰î‚·‚é“®‰æ‚Æ‚©ì‚Á‚½‚ç–Ê”’‚»‚¤B
 ‚ ‚Æ‚ÍŠÏŒõ’nÐ‰î‚Æ‚©B‚¿‚å‚Á‚Æl‚¦‚Ä‚Ý‚æ‚¤‚©‚È¥¥¥B
+=======
+å¹´ãŒæ˜Žã‘ãŸã‚‰ã€å…¬é–‹ã—ã¾ã™ã€‚
+>>>>>>> origin/master
