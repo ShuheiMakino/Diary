@@ -17,3 +17,7 @@ ledCube»ì‚Í‚Ð‚Æ’i—ŽB‚Æ‚è‚ ‚¦‚¸Š®¬‚µ‚½‚Ì‚Å‚Ü‚½¡“x“_–Åƒpƒ^[ƒ“‚ð‰É‚È‚Æ‚«‚Å‚à’
 ¡‰ñ‚Í3x3x3‚Ì•¨‚ðì‚Á‚½‚¯‚ÇA‚â‚Á‚Ï‚è¬‚³‚­‚Ä“_–Åƒpƒ^[ƒ“‚à‚ ‚é’ö“xŒÀ‚ç‚ê‚Ä‚µ‚Ü‚¤‚Ì‚ÅŽŸ‚Í5x5x5‚ðì‚Á‚Ä‚Ý‚½‚¢B
 ‚»‚¤‚È‚é‚ÆArduino Mega‚Æ‚©‚Ì•û‚ª‚¢‚¢‚Ì‚©‚ÈB
 “dˆ³“d—¬‚ÌŒvŽZ‚Æ‚©Al‚¦‚é‚Ì‚Í‹êŽè‚È‚Ì‚ÅA‚Æ‚è‚ ‚¦‚¸”ƒ‚Á‚Äì‚Á‚Ä‚Ý‚Ä‘Ê–Ú‚¾‚Á‚½‚ç’ú‚ß‚æ‚¤‚©‚ÈB
+
+2016/01/05
+arduino‚ÅŽg‚¦‚é‹C‰·Ž¼“xƒZƒ“ƒT‚ÆLED‚ð”ƒ‚Á‚Ä‰õ“KŠÂ‹«‚©‚Ç‚¤‚©‚Ì”»’è‚Å‚«‚é•\Ž¦Ší‚ðì‚ë‚¤‚©‚È‚Æ‰æô’†B
+ƒAƒŒ‚àì‚Á‚Ä‚Ý‚½‚¢BƒŒƒS‚ÌƒP[ƒXI
